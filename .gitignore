@@ -1,0 +1,24 @@
+# Ignora a pasta node_modules (bibliotecas instaladas)
+node_modules/
+
+# Ignora a pasta dist (arquivos compilados do TypeScript)
+dist/
+
+# Ignora arquivos JavaScript compilados
+*.js
+
+# Ignora arquivos de log
+*.log
+
+# Arquivos de sistema (Windows/macOS)
+.DS_Store
+Thumbs.db
+
+# Configurações de editores
+.vscode/
+.idea/
+
+# Arquivos temporários
+*.tmp
+*.swp
+*.swo

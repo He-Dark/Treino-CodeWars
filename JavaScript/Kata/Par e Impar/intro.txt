@@ -1,0 +1,3 @@
+Timmy e Sarah acham que estão apaixonados, mas perto de onde moram, só saberão quando colherem uma flor cada. Se uma das flores tiver um número par de pétalas e a outra um número ímpar, significa que estão apaixonados.
+
+Escreva uma função que receberá o número de pétalas de cada flor e retornará true se elas estiverem apaixonadas e false se não estiverem.
